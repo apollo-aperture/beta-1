@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/team-snape/beta-1#readme",
   "dependencies": {
-    "glob": "^7.1.4"
+    "glob": "^13.0.6"
   }
 }
